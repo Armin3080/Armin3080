@@ -6,7 +6,7 @@
 
 *I build software around privacy, connectivity, AI, and clean user experiences.*
 
-[![Explore repositories](https://img.shields.io/badge/Explore%20my%20work-0B1710?style=for-the-badge&logo=github&logoColor=39FF88)](https://github.com/venteda)
+[![Explore repositories](https://img.shields.io/badge/Explore%20my%20work-0B1710?style=for-the-badge&logo=github&logoColor=39FF88)](https://github.com/Armin3080)
 [![Telegram](https://img.shields.io/badge/Telegram-0B1710?style=for-the-badge&logo=telegram&logoColor=39FF88)](https://t.me/print_001100110011)
 
 </div>
