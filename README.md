@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="neon_rain_street.gif" width="100%" alt="Neon rain street"/>
+<img src="https://raw.githubusercontent.com/Armin3080/Armin3080/main/neon_rain_street.gif" width="100%" alt="Neon rain street"/>
 
 <table>
 <tr>
-<td width="50%"><img src="hud_scan.gif" width="100%" alt="HUD scan"/></td>
-<td width="50%"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2prYWdsMTNxMjhuc3VkMmZxOTFwY2MzNHg1Z3ZianpjdjRoZXVobSZlcD12MV92aWRlb3Nfc2VhcmNoJmN0PXY/ccKdPsnzNuFGCPPR0V/giphy.gif" width="100%" alt="Night City"/></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/Armin3080/Armin3080/main/hud_scan.gif" width="100%" alt="HUD scan"/></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/Armin3080/Armin3080/main/rain_ring.gif" width="100%" alt="Rain ring"/></td>
 </tr>
 </table>
 
@@ -15,34 +15,21 @@
 
 <br/>
 
-<a href="https://github.com/Armin3080">
-  <img src="https://img.shields.io/badge/◈_NODE-Armin3080-00F5D4?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=03040A" alt="GitHub"/>
-</a>
+<a href="https://github.com/Armin3080"><img src="https://img.shields.io/badge/◈_NODE-Armin3080-00F5D4?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=03040A" alt="GitHub"/></a>
 &nbsp;
-<a href="https://t.me/print_001100110011">
-  <img src="https://img.shields.io/badge/◈_UPLINK-Telegram-FF3CAC?style=for-the-badge&logo=telegram&logoColor=FF3CAC&labelColor=03040A" alt="Telegram"/>
-</a>
+<a href="https://t.me/print_001100110011"><img src="https://img.shields.io/badge/◈_UPLINK-Telegram-FF3CAC?style=for-the-badge&logo=telegram&logoColor=FF3CAC&labelColor=03040A" alt="Telegram"/></a>
 &nbsp;
 <img src="https://img.shields.io/badge/◈_STATUS-ONLINE-7B2CFF?style=for-the-badge&logo=statuspage&logoColor=7B2CFF&labelColor=03040A" alt="Status"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Armin3080/Armin3080/main/neon_divider.gif" width="100%" alt="divider"/>
 
 <div align="center">
 
 ## ◈ OPERATOR FILE
 
 </div>
-
-<table>
-<tr>
-<td width="45%" valign="middle">
-
-<img src="neon_rain_street.gif" width="100%" alt="Neon rain street"/>
-
-</td>
-<td width="55%" valign="top">
 
 ```python
 class Venteda:
@@ -54,12 +41,7 @@ class Venteda:
 ```
 
 > The city never sleeps. Neither do the systems that keep it running.
->
-> I design high-integrity networking layers, local AI cores, real-time channels and interfaces that cut through static. No gallery pieces. Only systems that survive the rain.
-
-</td>
-</tr>
-</table>
+> I design high-integrity networking layers, local AI cores, real-time channels and interfaces that cut through static. Only systems that survive the rain.
 
 <div align="center">
 
@@ -70,15 +52,9 @@ class Venteda:
 | **AUTOMATION** | Workflow engines · internal tools · friction deleted at source |
 | **INTERFACE** | Glassmorphic HUD · neon signal design · surfaces that feel inevitable |
 
-</div>
-
----
-
-<div align="center">
+<img src="https://raw.githubusercontent.com/Armin3080/Armin3080/main/neon_divider.gif" width="100%" alt="divider"/>
 
 ## ◈ ACTIVE SYSTEMS
-
-<img src="hud_scan.gif" width="60%" alt="HUD scan"/>
 
 </div>
 
@@ -87,10 +63,7 @@ class Venteda:
     <td width="50%" valign="top">
       <h3 align="center">⚡ VENTEDA NETWORKING</h3>
       <p align="center"><code>PROTOCOL · ENCRYPT · ROUTE</code></p>
-      <p align="center">
-        Networking layer forged for privacy and speed.<br/>
-        From interface to encrypted path — no black boxes, no leaks under rain.
-      </p>
+      <p align="center">Networking layer forged for privacy and speed.<br/>From interface to encrypted path — no black boxes, no leaks under rain.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-00F5D4?style=flat-square&logo=python&logoColor=03040A"/>
         <img src="https://img.shields.io/badge/WebSocket-FF3CAC?style=flat-square&logo=socketdotio&logoColor=white"/>
@@ -100,10 +73,7 @@ class Venteda:
     <td width="50%" valign="top">
       <h3 align="center">💬 VENTEDA CHAT</h3>
       <p align="center"><code>REALTIME · LOCAL · SIGNAL</code></p>
-      <p align="center">
-        Messaging system built for presence in the dark.<br/>
-        Local-first architecture. Neon-clear. Zero unnecessary cloud.
-      </p>
+      <p align="center">Messaging system built for presence in the dark.<br/>Local-first architecture. Neon-clear. Zero unnecessary cloud.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-00F5D4?style=flat-square&logo=javascript&logoColor=03040A"/>
         <img src="https://img.shields.io/badge/WebSocket-FF3CAC?style=flat-square&logo=socketdotio&logoColor=white"/>
@@ -115,10 +85,7 @@ class Venteda:
     <td width="50%" valign="top">
       <h3 align="center">🛠 VENTEDA CRAFT</h3>
       <p align="center"><code>SURFACE · COMPONENT · HUD</code></p>
-      <p align="center">
-        Desktop launcher and interface systems dripping with neon and glass.<br/>
-        Rapid prototyping of cinematic HUD surfaces and signal-first design.
-      </p>
+      <p align="center">Desktop launcher and interface systems dripping with neon and glass.<br/>Rapid prototyping of cinematic HUD surfaces and signal-first design.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-00F5D4?style=flat-square&logo=python&logoColor=03040A"/>
         <img src="https://img.shields.io/badge/PySide6-FF3CAC?style=flat-square&logo=qt&logoColor=white"/>
@@ -128,10 +95,7 @@ class Venteda:
     <td width="50%" valign="top">
       <h3 align="center">🧰 DEVELOPER TOOLKIT</h3>
       <p align="center"><code>UTILITY · AUTOMATE · ACCELERATE</code></p>
-      <p align="center">
-        Internal tools forged under neon rain.<br/>
-        Remove friction. Keep the stack sharp. Never miss a cycle.
-      </p>
+      <p align="center">Internal tools forged under neon rain.<br/>Remove friction. Keep the stack sharp. Never miss a cycle.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-00F5D4?style=flat-square&logo=python&logoColor=03040A"/>
         <img src="https://img.shields.io/badge/Git-FF3CAC?style=flat-square&logo=git&logoColor=white"/>
@@ -141,21 +105,13 @@ class Venteda:
   </tr>
 </table>
 
-<p align="center"><sub>▸ Systems under continuous iteration — the rain never stops the build</sub></p>
-
----
-
 <div align="center">
 
 ## ◈ TECH ARSENAL
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css,qt,git,github,linux,windows,cloudflare&theme=dark&perline=10" alt="Tech arsenal icons"/>
 
-</div>
-
----
-
-<div align="center">
+<img src="https://raw.githubusercontent.com/Armin3080/Armin3080/main/rain_ring.gif" width="40%" alt="rain ring"/>
 
 ## ◈ TELEMETRY
 
@@ -172,97 +128,17 @@ class Venteda:
 
 <img src="https://streak-stats.demolab.com?user=Armin3080&theme=radical&background=03040A&border=03040A&stroke=7B2CFF&ring=00F5D4&fire=FF3CAC&currStreakLabel=00F5D4&sideLabels=E8EAF6&dates=E8EAF6&currStreakNum=FF3CAC&sideNums=7B2CFF" alt="Streak"/>
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Armin3080/Armin3080/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
-
 </div>
 
----
-
-<div align="center">
-
-## ◈ CORE DIRECTIVES
-
-</div>
-
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-
-**⚡ PERFORMANCE FIRST**  
-Latency is a design decision.  
-Measure. Cut. Repeat.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-**🔒 PRIVACY IS NON-NEGOTIABLE**  
-Local-first.  
-User data never leaves the perimeter.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-**🏗 ARCHITECTURE OVER CHAOS**  
-Clear boundaries.  
-Code that still runs when the city sleeps.
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center" valign="top">
-
-**🎨 SIGNAL OVER NOISE**  
-Interfaces must feel inevitable.  
-Clarity is the highest aesthetic.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-**🔄 ITERATE OR DIE**  
-Ship. Observe. Elevate.  
-The rain never stops the cycle.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-**💡 BUILD BEYOND**  
-The ordinary is already occupied.  
-Explore the ignored vectors.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-```
-▸ PRIMARY DIRECTIVE   Build it. Understand it. Make it better.
-▸ ATMOSPHERE         Neon rain · Midnight signal · Continuous iteration
-```
-
-</div>
-
----
+<img src="https://raw.githubusercontent.com/Armin3080/Armin3080/main/neon_divider.gif" width="100%" alt="divider"/>
 
 <div align="center">
 
 ## ◈ UPLINK
 
-<br/>
-
-<a href="https://github.com/Armin3080">
-  <img src="https://img.shields.io/badge/◈_NODE-Armin3080-00F5D4?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=03040A"/>
-</a>
+<a href="https://github.com/Armin3080"><img src="https://img.shields.io/badge/◈_NODE-Armin3080-00F5D4?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=03040A"/></a>
 &nbsp;&nbsp;
-<a href="https://t.me/print_001100110011">
-  <img src="https://img.shields.io/badge/◈_UPLINK-@print__001100110011-FF3CAC?style=for-the-badge&logo=telegram&logoColor=FF3CAC&labelColor=03040A"/>
-</a>
-
-<br/><br/>
-
-<img src="hud_scan.gif" width="75%" alt="HUD scan"/>
+<a href="https://t.me/print_001100110011"><img src="https://img.shields.io/badge/◈_UPLINK-@print__001100110011-FF3CAC?style=for-the-badge&logo=telegram&logoColor=FF3CAC&labelColor=03040A"/></a>
 
 <br/><br/>
 
