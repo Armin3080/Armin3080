@@ -4,6 +4,10 @@
 
 <br/>
 
+<img src="https://media.giphy.com/media/FK2GGK7CxopG5rirJB/giphy.gif" width="85%" alt="Night City Rain"/>
+
+<br/><br/>
+
 <a href="https://github.com/Armin3080">
   <img src="https://img.shields.io/badge/◈_NODE-Armin3080-00F5D4?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=03040A" alt="GitHub"/>
 </a>
@@ -28,11 +32,7 @@
 ════════════════════════════════════════════════════════════════════════
 ```
 
-```
-  ┊    ┊    ┊    ┊    ┊    ┊    ┊    ┊    ┊    ┊    ┊    ┊    ┊
-     ┊    ┊    ┊    ┊    ┊    ┊    ┊    ┊    ┊    ┊    ┊    ┊
-  ·      ·      ·      ·      ·      ·      ·      ·      ·      ·
-```
+<img src="https://media.giphy.com/media/dPWMysx9bD91CGiGaY/giphy.gif" width="70%" alt="Neon Rain"/>
 
 </div>
 
@@ -305,11 +305,9 @@ Light the dark streets.
 
 <br/><br/>
 
-```
-  ┊    ┊    ┊    ┊    ┊    ┊    ┊    ┊    ┊    ┊    ┊    ┊    ┊
-     ┊    ┊    ┊    ┊    ┊    ┊    ┊    ┊    ┊    ┊    ┊    ┊
-  ·      ·      ·      ·      ·      ·      ·      ·      ·      ·
-```
+<img src="https://media.giphy.com/media/YTwtRDBqfmsAdWGj6R/giphy.gif" width="75%" alt="Neon City"/>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03040A,25:0A0F2C,55:1A0A2E,100:03040A&height=150&section=footer&text=VENTEDA&fontSize=44&fontAlignY=52&fontColor=00F5D4&animation=fadeIn" width="100%" alt="Footer"/>
 
