@@ -2,13 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03040A,20:0A0F2C,45:1A0A2E,70:0A0F2C,100:03040A&height=300&section=header&text=VENTEDA&fontSize=88&fontAlignY=32&desc=BUILDING%20BEYOND%20THE%20ORDINARY&descAlignY=55&descSize=16&fontColor=00F5D4&animation=fadeIn" width="100%" alt="VENTEDA header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=90&lines=SYSTEMS+ARCHITECT;LOCAL+AI+%C2%B7+PRIVACY+NETS;REALTIME+CHANNELS+%C2%B7+DESKTOP+SURFACES" alt="Typing animation"/>
+<img src="https://media.giphy.com/media/FK2GGK7CxopG5rirJB/giphy.gif" width="100%" alt="Night City Rain"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=100&lines=SYSTEMS+ARCHITECT;LOCAL+AI+%C2%B7+PRIVACY+NETS;REALTIME+CHANNELS+%C2%B7+DESKTOP+SURFACES" alt="Typing animation"/>
 
 <br/>
-
-<img src="https://media.giphy.com/media/FK2GGK7CxopG5rirJB/giphy.gif" width="85%" alt="Night City Rain"/>
-
-<br/><br/>
 
 <a href="https://github.com/Armin3080">
   <img src="https://img.shields.io/badge/◈_NODE-Armin3080-00F5D4?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=03040A" alt="GitHub"/>
@@ -22,6 +20,14 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03040A,50:1A0A2E,100:03040A&height=80&section=header&text=&animation=fadeIn" width="100%" alt=""/>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/dPWMysx9bD91CGiGaY/giphy.gif" width="70%" alt="Neon Rain"/>
+
+</div>
+
 ---
 
 <div align="center">
@@ -29,6 +35,15 @@
 ## ◈ OPERATOR FILE
 
 </div>
+
+<table>
+<tr>
+<td width="45%" valign="middle">
+
+<img src="https://media.giphy.com/media/FK2GGK7CxopG5rirJB/giphy.gif" width="100%" alt="City rain"/>
+
+</td>
+<td width="55%" valign="top">
 
 ```python
 class Venteda:
@@ -41,7 +56,11 @@ class Venteda:
 
 > The city never sleeps. Neither do the systems that keep it running.
 >
-> I design high-integrity networking layers, local AI cores, real-time communication channels and interfaces that cut through static. No gallery pieces. Only systems that survive the rain.
+> I design high-integrity networking layers, local AI cores, real-time channels and interfaces that cut through static. No gallery pieces. Only systems that survive the rain.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -59,6 +78,8 @@ class Venteda:
 <div align="center">
 
 ## ◈ ACTIVE SYSTEMS
+
+<img src="https://media.giphy.com/media/YTwtRDBqfmsAdWGj6R/giphy.gif" width="60%" alt="Neon City"/>
 
 </div>
 
@@ -129,8 +150,6 @@ class Venteda:
 
 ## ◈ TECH ARSENAL
 
-<br/>
-
 <img src="https://skillicons.dev/icons?i=python,js,html,css,qt,git,github,linux,windows,cloudflare&theme=dark&perline=10" alt="Tech arsenal icons"/>
 
 </div>
@@ -140,8 +159,6 @@ class Venteda:
 <div align="center">
 
 ## ◈ TELEMETRY
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Armin3080&show_icons=true&theme=radical&bg_color=03040A&title_color=00F5D4&icon_color=FF3CAC&text_color=E8EAF6&hide_border=true&border_radius=14&ring_color=7B2CFF">
@@ -156,6 +173,10 @@ class Venteda:
 
 <img src="https://streak-stats.demolab.com?user=Armin3080&theme=radical&background=03040A&border=03040A&stroke=7B2CFF&ring=00F5D4&fire=FF3CAC&currStreakLabel=00F5D4&sideLabels=E8EAF6&dates=E8EAF6&currStreakNum=FF3CAC&sideNums=7B2CFF" alt="Streak"/>
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Armin3080/Armin3080/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
+
 </div>
 
 ---
@@ -163,6 +184,8 @@ class Venteda:
 <div align="center">
 
 ## ◈ CORE DIRECTIVES
+
+<img src="https://media.giphy.com/media/dPWMysx9bD91CGiGaY/giphy.gif" width="50%" alt="Neon rain"/>
 
 </div>
 
@@ -243,6 +266,10 @@ Explore the ignored vectors.
 <br/><br/>
 
 <img src="https://media.giphy.com/media/YTwtRDBqfmsAdWGj6R/giphy.gif" width="75%" alt="Neon City"/>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/FK2GGK7CxopG5rirJB/giphy.gif" width="75%" alt="Night City Rain"/>
 
 <br/><br/>
 
