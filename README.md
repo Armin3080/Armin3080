@@ -1,108 +1,82 @@
-<div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════════
-     VENTEDA  ·  PREMIUM CYBERPUNK PROFILE
-     Dark Glassmorphism × Neon HUD × Minimal Tech Aesthetic
-═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:0A0F2C,100:050816&height=230&section=header&text=VENTEDA&fontSize=74&fontAlignY=36&desc=BUILDING%20BEYOND%20THE%20ORDINARY&descAlignY=58&descSize=17&fontColor=00F5D4&animation=fadeIn" width="100%" alt="VENTEDA Header"/>
-
-<br/>
-
-<a href="https://github.com/Armin3080">
-  <img src="https://img.shields.io/badge/GitHub-Armin3080-00F5D4?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=050816" alt="GitHub"/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,15:0A0F2C,40:1A0A2E,70:0A0F2C,100:050816&height=280&section=header&text=VENTEDA&fontSize=84&fontAlignY=33&desc=BUILDING%20BEYOND%20THE%20ORDINARY&descAlignY=56&descSize=17&fontColor=00F5D4&animation=fadeIn" width="100%" alt="VENTEDA"/> <br/> <a href="https://github.com/Armin3080">
+  <img src="https://img.shields.io/badge/◈_NODE-Armin3080-00F5D4?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=050816" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://t.me/print_001100110011">
-  <img src="https://img.shields.io/badge/Telegram-Contact-FF3CAC?style=for-the-badge&logo=telegram&logoColor=FF3CAC&labelColor=050816" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/◈_UPLINK-Telegram-FF3CAC?style=for-the-badge&logo=telegram&logoColor=FF3CAC&labelColor=050816" alt="Telegram"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Active-7B2CFF?style=for-the-badge&logo=statuspage&logoColor=7B2CFF&labelColor=050816" alt="Status"/>
-
+<img src="https://img.shields.io/badge/◈_STATUS-ONLINE-7B2CFF?style=for-the-badge&logo=statuspage&logoColor=7B2CFF&labelColor=050816" alt="Status"/>
 <br/><br/>
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  SYSTEM ONLINE  │  NODE: ARMIN3080  │  MODE: CYBERPUNK     │
-└──────────────────────────────────────────────────────────────┘
-```
-
+╔══════════════════════════════════════════════════════════════════════╗
+║  ▸ SYSTEM: ONLINE         ▸ NODE: ARMIN3080       ▸ MODE: CYBERPUNK ║
+║  ▸ PROTOCOL: NEON-CORE    ▸ ACCESS: GRANTED       ▸ UPTIME: ∞       ║
+║  ▸ WEATHER: NEON RAIN     ▸ SIGNAL: STABLE        ▸ CITY: ACTIVE    ║
+╚══════════════════════════════════════════════════════════════════════╝
+  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊
+  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊
+  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
 </div>
-
----
-
 <div align="center">
-
-## ◈ IDENTITY
-
-</div>
-
-<table>
+◈  I D E N T I T Y   L O G
+</div> <table>
 <tr>
 <td>
-
-```python
 class Venteda:
-    focus     = ["privacy & networking", "local AI systems", "real-time apps", "desktop tools"]
-    mindset   = "Learn by building. Improve by iterating."
-    principle = "Build beyond the ordinary."
-```
+    designation = "Systems Architect"
+    vectors     = ["privacy nets", "local intelligence", "realtime channels", "desktop surfaces"]
+    directive   = "Ship. Observe. Elevate."
+    core        = "Build beyond the ordinary."
+    atmosphere  = "neon · rain · signal"
+Under neon rain and static skies, I construct systems that refuse to break.
 
-Independent software builder focused on **privacy-first networking**, **local AI tooling**, **real-time communication** and **clean desktop experiences**.
+High-integrity networking. Local intelligence. Real-time channels. Interfaces that cut through the noise.
 
-I take ideas from rough prototype to working product — backend logic, integrations, and the interfaces people actually use.
+I do not build for the gallery.
+I build for the street.
 
 </td>
 </tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-| Domain | Focus |
-|:------:|:------|
-| **Networking** | Privacy-oriented connectivity · low-latency channels · secure protocols |
-| **AI Systems** | Local LLMs · offline knowledge layers · inference pipelines |
-| **Automation** | Workflow engines · developer utilities · continuous tooling |
-| **UX / Interface** | Desktop apps · glassmorphism · responsive real-time UI |
-
+</table> <br/> <div align="center">
+▸ SECTOR	▸ OPERATIONAL FOCUS
+NETWORKING	Encrypted channels · low-latency routes · privacy under rain
+AI CORE	Local LLMs · offline knowledge · inference that stays offline
+AUTOMATION	Workflow engines · internal tools · friction deleted
+INTERFACE	Glassmorphic HUD · neon signals · surfaces that feel inevitable
 </div>
-
----
-
 <div align="center">
-
-## ◈ PROJECTS
-
-</div>
-
-<br/>
-
-<table>
+◈  A C T I V E   S Y S T E M S
+</div> <br/> <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">⚡ VENTEDA NETWORKING</h3>
       <p align="center">
-        Privacy-oriented connectivity experiments and networking toolkit.<br/>
-        Exploring the full path from interface to reliable, secure connection.
+        <code>PROTOCOL · ENCRYPT · ROUTE</code>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-00F5D4?style=flat-square&logo=python&logoColor=050816" alt="Python"/>
-        <img src="https://img.shields.io/badge/WebSocket-FF3CAC?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket"/>
-        <img src="https://img.shields.io/badge/REST-7B2CFF?style=flat-square&logo=fastapi&logoColor=white" alt="REST"/>
+        Networking layer forged for privacy and speed.<br/>
+        From interface to encrypted path — no black boxes, no leaks.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-00F5D4?style=flat-square&logo=python&logoColor=050816"/>
+        <img src="https://img.shields.io/badge/WebSocket-FF3CAC?style=flat-square&logo=socketdotio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST-7B2CFF?style=flat-square&logo=fastapi&logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">💬 VENTEDA CHAT</h3>
       <p align="center">
-        Real-time messaging experience with local-first architecture.<br/>
-        Designed for privacy, speed, and a consistent multi-platform interface.
+        <code>REALTIME · LOCAL · SIGNAL</code>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-00F5D4?style=flat-square&logo=javascript&logoColor=050816" alt="JS"/>
-        <img src="https://img.shields.io/badge/WebSocket-FF3CAC?style=flat-square&logo=socketdotio&logoColor=white" alt="WS"/>
-        <img src="https://img.shields.io/badge/HTML5-7B2CFF?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+        Messaging system built for presence under pressure.<br/>
+        Local-first. Neon-clear. Zero unnecessary cloud.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-00F5D4?style=flat-square&logo=javascript&logoColor=050816"/>
+        <img src="https://img.shields.io/badge/WebSocket-FF3CAC?style=flat-square&logo=socketdotio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5-7B2CFF?style=flat-square&logo=html5&logoColor=white"/>
       </p>
     </td>
   </tr>
@@ -110,172 +84,125 @@ I take ideas from rough prototype to working product — backend logic, integrat
     <td width="50%" valign="top">
       <h3 align="center">🛠 VENTEDA CRAFT</h3>
       <p align="center">
-        Creative toolkit for modern interfaces and visual systems.<br/>
-        Rapid prototyping of glassmorphic and HUD-style components.
+        <code>SURFACE · COMPONENT · HUD</code>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-00F5D4?style=flat-square&logo=html5&logoColor=050816" alt="HTML"/>
-        <img src="https://img.shields.io/badge/CSS3-FF3CAC?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-        <img src="https://img.shields.io/badge/Qt-7B2CFF?style=flat-square&logo=qt&logoColor=white" alt="Qt"/>
+        Interface systems dripping with neon and glass.<br/>
+        Rapid prototyping of HUD surfaces and signal-first design.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-00F5D4?style=flat-square&logo=html5&logoColor=050816"/>
+        <img src="https://img.shields.io/badge/CSS3-FF3CAC?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Qt-7B2CFF?style=flat-square&logo=qt&logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🧰 DEVELOPER TOOLKIT</h3>
       <p align="center">
-        Practical utilities, scripts and internal tools.<br/>
-        Built to accelerate development and keep workflows clean.
+        <code>UTILITY · AUTOMATE · ACCELERATE</code>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-00F5D4?style=flat-square&logo=python&logoColor=050816" alt="Python"/>
-        <img src="https://img.shields.io/badge/Git-FF3CAC?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-        <img src="https://img.shields.io/badge/Linux-7B2CFF?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
+        Internal tools forged in the rain.<br/>
+        Remove friction. Keep the stack sharp.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-00F5D4?style=flat-square&logo=python&logoColor=050816"/>
+        <img src="https://img.shields.io/badge/Git-FF3CAC?style=flat-square&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Linux-7B2CFF?style=flat-square&logo=linux&logoColor=white"/>
       </p>
     </td>
   </tr>
-</table>
-
-<sub align="center">Ongoing concepts and experiments — feature availability depends on each project's current stage.</sub>
-
----
-
+</table> <p align="center"><sub>▸ Systems under continuous iteration — the rain never stops the build</sub></p>
 <div align="center">
-
-## ◈ TECH STACK
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,qt,git,github,linux,windows&theme=dark" alt="Tech Stack"/>
-
+◈  T E C H   A R S E N A L
+<br/> <img src="https://skillicons.dev/icons?i=python,js,html,css,qt,git,github,linux,windows&theme=dark" alt="Arsenal"/>
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Python-00F5D4?style=for-the-badge&logo=python&logoColor=050816" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-FF3CAC?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/HTML5-7B2CFF?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-00F5D4?style=for-the-badge&logo=css3&logoColor=050816" alt="CSS3"/>
-<img src="https://img.shields.io/badge/PySide6-FF3CAC?style=for-the-badge&logo=qt&logoColor=white" alt="PySide6"/>
-<img src="https://img.shields.io/badge/Qt-7B2CFF?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Git-00F5D4?style=for-the-badge&logo=git&logoColor=050816" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-FF3CAC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Linux-7B2CFF?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-<img src="https://img.shields.io/badge/Windows-00F5D4?style=for-the-badge&logo=windows&logoColor=050816" alt="Windows"/>
-<img src="https://img.shields.io/badge/Cloudflare-FF3CAC?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-<img src="https://img.shields.io/badge/REST%20APIs-7B2CFF?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST"/>
-<img src="https://img.shields.io/badge/WebSocket-00F5D4?style=for-the-badge&logo=socketdotio&logoColor=050816" alt="WebSocket"/>
-<img src="https://img.shields.io/badge/Local%20LLMs-FF3CAC?style=for-the-badge&logo=huggingface&logoColor=white" alt="Local LLMs"/>
-
-</div>
-
----
-
+<img src="https://img.shields.io/badge/Python-00F5D4?style=for-the-badge&logo=python&logoColor=050816"/>
+<img src="https://img.shields.io/badge/JavaScript-FF3CAC?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-7B2CFF?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-00F5D4?style=for-the-badge&logo=css3&logoColor=050816"/>
+<img src="https://img.shields.io/badge/PySide6-FF3CAC?style=for-the-badge&logo=qt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qt-7B2CFF?style=for-the-badge&logo=qt&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Git-00F5D4?style=for-the-badge&logo=git&logoColor=050816"/>
+<img src="https://img.shields.io/badge/GitHub-FF3CAC?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-7B2CFF?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-00F5D4?style=for-the-badge&logo=windows&logoColor=050816"/>
+<img src="https://img.shields.io/badge/Cloudflare-FF3CAC?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-7B2CFF?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSocket-00F5D4?style=for-the-badge&logo=socketdotio&logoColor=050816"/>
+<img src="https://img.shields.io/badge/Local_LLMs-FF3CAC?style=for-the-badge&logo=huggingface&logoColor=white"/> </div>
 <div align="center">
-
-## ◈ GITHUB ANALYTICS
-
-<br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Armin3080&show_icons=true&theme=radical&bg_color=050816&title_color=00F5D4&icon_color=FF3CAC&text_color=E8EAF6&hide_border=true&border_radius=12" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armin3080&layout=compact&theme=radical&bg_color=050816&title_color=00F5D4&text_color=E8EAF6&hide_border=true&border_radius=12" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Armin3080&theme=radical&background=050816&border=050816&stroke=7B2CFF&ring=00F5D4&fire=FF3CAC&currStreakLabel=00F5D4&sideLabels=E8EAF6&dates=E8EAF6&currStreakNum=FF3CAC&sideNums=7B2CFF" alt="GitHub Streak"/>
-
-</div>
-
----
-
+◈  T E L E M E T R Y
+<br/> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Armin3080&show_icons=true&theme=radical&bg_color=050816&title_color=00F5D4&icon_color=FF3CAC&text_color=E8EAF6&hide_border=true&border_radius=14&ring_color=7B2CFF" alt="Telemetry"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armin3080&layout=compact&theme=radical&bg_color=050816&title_color=00F5D4&text_color=E8EAF6&hide_border=true&border_radius=14" alt="Language Map"/> <br/> <img src="https://streak-stats.demolab.com?user=Armin3080&theme=radical&background=050816&border=050816&stroke=7B2CFF&ring=00F5D4&fire=FF3CAC&currStreakLabel=00F5D4&sideLabels=E8EAF6&dates=E8EAF6&currStreakNum=FF3CAC&sideNums=7B2CFF" alt="Streak"/> </div>
 <div align="center">
-
-## ◈ ENGINEERING PHILOSOPHY
-
-</div>
-
-<br/>
-
-<table>
+◈  C O R E   D I R E C T I V E S
+</div> <br/> <table>
 <tr>
 <td width="33%" align="center" valign="top">
-
-**⚡ Performance First**  
-Measure everything.  
-Latency and efficiency are non-negotiable.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-**🔒 Privacy Matters**  
-Local-first where possible.  
-User data stays under user control.
+⚡ PERFORMANCE FIRST
+Latency is a design decision.
+Measure. Cut. Repeat.
+Even under the rain.
 
 </td>
 <td width="33%" align="center" valign="top">
+🔒 PRIVACY IS NON-NEGOTIABLE
+Local-first.
+User data never leaves the perimeter.
+No leaks in the neon.
 
-**🏗 Clean Architecture**  
-Clear boundaries.  
-Maintainable, testable, honest code.
+</td>
+<td width="33%" align="center" valign="top">
+🏗 ARCHITECTURE OVER CHAOS
+Clear boundaries.
+Code that still runs when the city sleeps.
 
 </td>
 </tr>
 <tr>
 <td width="33%" align="center" valign="top">
-
-**🎨 User Experience**  
-Interfaces should feel inevitable.  
-Clarity over decoration.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-**🔄 Continuous Improvement**  
-Ship → measure → refine.  
-Never settle for “good enough”.
+🎨 SIGNAL OVER NOISE
+Interfaces must feel inevitable.
+Clarity is the highest aesthetic.
+Neon only when it matters.
 
 </td>
 <td width="33%" align="center" valign="top">
+🔄 ITERATE OR DIE
+Ship. Observe. Elevate.
+The rain never stops the cycle.
 
-**💡 Innovation**  
-Build beyond the ordinary.  
-Explore what others ignore.
+</td>
+<td width="33%" align="center" valign="top">
+💡 BUILD BEYOND
+The ordinary is already occupied.
+Explore the ignored vectors.
+Light the dark streets.
 
 </td>
 </tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-> **Build it. Understand it. Make it better.**
-
+</table> <br/> <div align="center">
+▸ PRIMARY DIRECTIVE: Build it. Understand it. Make it better.
+▸ ATMOSPHERE: Neon rain · Static skies · Signal strong
 </div>
-
----
-
 <div align="center">
-
-## ◈ CONNECT
-
-<br/>
-
-<a href="https://github.com/Armin3080">
-  <img src="https://img.shields.io/badge/GitHub-Armin3080-00F5D4?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=050816" alt="GitHub"/>
+◈  U P L I N K
+<br/> <a href="https://github.com/Armin3080">
+  <img src="https://img.shields.io/badge/◈_NODE-Armin3080-00F5D4?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=050816"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://t.me/print_001100110011">
-  <img src="https://img.shields.io/badge/Telegram-@print__001100110011-FF3CAC?style=for-the-badge&logo=telegram&logoColor=FF3CAC&labelColor=050816" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/◈_UPLINK-@print__001100110011-FF3CAC?style=for-the-badge&logo=telegram&logoColor=FF3CAC&labelColor=050816"/>
 </a>
-
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0A0F2C,100:050816&height=120&section=footer&text=VENTEDA&fontSize=34&fontAlignY=55&fontColor=00F5D4&animation=fadeIn" width="100%" alt="Footer"/>
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  END OF TRANSMISSION  │  VENTEDA SYSTEMS  │  2025–∞         │
-└──────────────────────────────────────────────────────────────┘
-```
-
+  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊
+  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊  ┊
+  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,20:0A0F2C,55:1A0A2E,100:050816&height=140&section=footer&text=VENTEDA&fontSize=42&fontAlignY=53&fontColor=00F5D4&animation=fadeIn" width="100%" alt="Footer"/>
+╔══════════════════════════════════════════════════════════════════════╗
+║  ▸ TRANSMISSION TERMINATED    ▸ VENTEDA SYSTEMS    ▸ 2025 → ∞       ║
+║  ▸ NEON STILL BURNING         ▸ RAIN STILL FALLING ▸ SIGNAL HOLDS   ║
+╚══════════════════════════════════════════════════════════════════════╝
 </div>
