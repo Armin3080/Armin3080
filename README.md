@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03040A,20:0A0F2C,45:1A0A2E,70:0A0F2C,100:03040A&height=300&section=header&text=VENTEDA&fontSize=88&fontAlignY=32&desc=BUILDING%20BEYOND%20THE%20ORDINARY&descAlignY=55&descSize=16&fontColor=00F5D4&animation=fadeIn" width="100%" alt="VENTEDA"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03040A,20:0A0F2C,45:1A0A2E,70:0A0F2C,100:03040A&height=300&section=header&text=VENTEDA&fontSize=88&fontAlignY=32&desc=BUILDING%20BEYOND%20THE%20ORDINARY&descAlignY=55&descSize=16&fontColor=00F5D4&animation=fadeIn" width="100%" alt="VENTEDA header"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=90&lines=SYSTEMS+ARCHITECT;LOCAL+AI+%C2%B7+PRIVACY+NETS;REALTIME+CHANNELS+%C2%B7+DESKTOP+SURFACES" alt="Typing animation"/>
 
 <br/>
 
@@ -18,35 +20,15 @@
 &nbsp;
 <img src="https://img.shields.io/badge/◈_STATUS-ONLINE-7B2CFF?style=for-the-badge&logo=statuspage&logoColor=7B2CFF&labelColor=03040A" alt="Status"/>
 
-<br/><br/>
-
-```
-════════════════════════════════════════════════════════════════════════
-        NIGHT CITY  ·  NEON RAIN  ·  SIGNAL HOLDING
-════════════════════════════════════════════════════════════════════════
-  ▸ SYSTEM     ONLINE
-  ▸ NODE       ARMIN3080
-  ▸ PROTOCOL   NEON-CORE
-  ▸ WEATHER    CONTINUOUS RAIN
-  ▸ ACCESS     GRANTED
-════════════════════════════════════════════════════════════════════════
-```
-
-<img src="https://media.giphy.com/media/dPWMysx9bD91CGiGaY/giphy.gif" width="70%" alt="Neon Rain"/>
-
 </div>
 
 ---
 
 <div align="center">
 
-## ◈  O P E R A T O R   F I L E
+## ◈ OPERATOR FILE
 
 </div>
-
-<table>
-<tr>
-<td>
 
 ```python
 class Venteda:
@@ -57,19 +39,9 @@ class Venteda:
     atmosphere  = "neon · rain · midnight signal"
 ```
 
-The city never sleeps.  
-Neither do the systems that keep it running.
-
-I design high-integrity networking layers, local AI cores, real-time communication channels and interfaces that cut through static.
-
-No gallery pieces.  
-Only systems that survive the rain.
-
-</td>
-</tr>
-</table>
-
-<br/>
+> The city never sleeps. Neither do the systems that keep it running.
+>
+> I design high-integrity networking layers, local AI cores, real-time communication channels and interfaces that cut through static. No gallery pieces. Only systems that survive the rain.
 
 <div align="center">
 
@@ -86,19 +58,15 @@ Only systems that survive the rain.
 
 <div align="center">
 
-## ◈  A C T I V E   S Y S T E M S
+## ◈ ACTIVE SYSTEMS
 
 </div>
-
-<br/>
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">⚡ VENTEDA NETWORKING</h3>
-      <p align="center">
-        <code>PROTOCOL · ENCRYPT · ROUTE</code>
-      </p>
+      <p align="center"><code>PROTOCOL · ENCRYPT · ROUTE</code></p>
       <p align="center">
         Networking layer forged for privacy and speed.<br/>
         From interface to encrypted path — no black boxes, no leaks under rain.
@@ -111,9 +79,7 @@ Only systems that survive the rain.
     </td>
     <td width="50%" valign="top">
       <h3 align="center">💬 VENTEDA CHAT</h3>
-      <p align="center">
-        <code>REALTIME · LOCAL · SIGNAL</code>
-      </p>
+      <p align="center"><code>REALTIME · LOCAL · SIGNAL</code></p>
       <p align="center">
         Messaging system built for presence in the dark.<br/>
         Local-first architecture. Neon-clear. Zero unnecessary cloud.
@@ -128,24 +94,20 @@ Only systems that survive the rain.
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🛠 VENTEDA CRAFT</h3>
+      <p align="center"><code>SURFACE · COMPONENT · HUD</code></p>
       <p align="center">
-        <code>SURFACE · COMPONENT · HUD</code>
-      </p>
-      <p align="center">
-        Interface systems dripping with neon and glass.<br/>
+        Desktop launcher and interface systems dripping with neon and glass.<br/>
         Rapid prototyping of cinematic HUD surfaces and signal-first design.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-00F5D4?style=flat-square&logo=html5&logoColor=03040A"/>
-        <img src="https://img.shields.io/badge/CSS3-FF3CAC?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-00F5D4?style=flat-square&logo=python&logoColor=03040A"/>
+        <img src="https://img.shields.io/badge/PySide6-FF3CAC?style=flat-square&logo=qt&logoColor=white"/>
         <img src="https://img.shields.io/badge/Qt-7B2CFF?style=flat-square&logo=qt&logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🧰 DEVELOPER TOOLKIT</h3>
-      <p align="center">
-        <code>UTILITY · AUTOMATE · ACCELERATE</code>
-      </p>
+      <p align="center"><code>UTILITY · AUTOMATE · ACCELERATE</code></p>
       <p align="center">
         Internal tools forged under neon rain.<br/>
         Remove friction. Keep the stack sharp. Never miss a cycle.
@@ -165,31 +127,11 @@ Only systems that survive the rain.
 
 <div align="center">
 
-## ◈  T E C H   A R S E N A L
+## ◈ TECH ARSENAL
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,qt,git,github,linux,windows&theme=dark" alt="Arsenal"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Python-00F5D4?style=for-the-badge&logo=python&logoColor=03040A"/>
-<img src="https://img.shields.io/badge/JavaScript-FF3CAC?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-7B2CFF?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-00F5D4?style=for-the-badge&logo=css3&logoColor=03040A"/>
-<img src="https://img.shields.io/badge/PySide6-FF3CAC?style=for-the-badge&logo=qt&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qt-7B2CFF?style=for-the-badge&logo=qt&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Git-00F5D4?style=for-the-badge&logo=git&logoColor=03040A"/>
-<img src="https://img.shields.io/badge/GitHub-FF3CAC?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-7B2CFF?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows-00F5D4?style=for-the-badge&logo=windows&logoColor=03040A"/>
-<img src="https://img.shields.io/badge/Cloudflare-FF3CAC?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-7B2CFF?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSocket-00F5D4?style=for-the-badge&logo=socketdotio&logoColor=03040A"/>
-<img src="https://img.shields.io/badge/Local_LLMs-FF3CAC?style=for-the-badge&logo=huggingface&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,qt,git,github,linux,windows,cloudflare&theme=dark&perline=10" alt="Tech arsenal icons"/>
 
 </div>
 
@@ -197,14 +139,20 @@ Only systems that survive the rain.
 
 <div align="center">
 
-## ◈  T E L E M E T R Y
+## ◈ TELEMETRY
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Armin3080&show_icons=true&theme=radical&bg_color=03040A&title_color=00F5D4&icon_color=FF3CAC&text_color=E8EAF6&hide_border=true&border_radius=14&ring_color=7B2CFF" alt="Telemetry"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armin3080&layout=compact&theme=radical&bg_color=03040A&title_color=00F5D4&text_color=E8EAF6&hide_border=true&border_radius=14" alt="Language Map"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Armin3080&show_icons=true&theme=radical&bg_color=03040A&title_color=00F5D4&icon_color=FF3CAC&text_color=E8EAF6&hide_border=true&border_radius=14&ring_color=7B2CFF">
+  <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Armin3080&show_icons=true&theme=radical&bg_color=03040A&title_color=00F5D4&icon_color=FF3CAC&text_color=E8EAF6&hide_border=true&border_radius=14&ring_color=7B2CFF"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Armin3080&layout=compact&theme=radical&bg_color=03040A&title_color=00F5D4&text_color=E8EAF6&hide_border=true&border_radius=14">
+  <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armin3080&layout=compact&theme=radical&bg_color=03040A&title_color=00F5D4&text_color=E8EAF6&hide_border=true&border_radius=14"/>
+</picture>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Armin3080&theme=radical&background=03040A&border=03040A&stroke=7B2CFF&ring=00F5D4&fire=FF3CAC&currStreakLabel=00F5D4&sideLabels=E8EAF6&dates=E8EAF6&currStreakNum=FF3CAC&sideNums=7B2CFF" alt="Streak"/>
 
@@ -214,11 +162,9 @@ Only systems that survive the rain.
 
 <div align="center">
 
-## ◈  C O R E   D I R E C T I V E S
+## ◈ CORE DIRECTIVES
 
 </div>
-
-<br/>
 
 <table>
 <tr>
@@ -226,16 +172,14 @@ Only systems that survive the rain.
 
 **⚡ PERFORMANCE FIRST**  
 Latency is a design decision.  
-Measure. Cut. Repeat.  
-Even when the rain never stops.
+Measure. Cut. Repeat.
 
 </td>
 <td width="33%" align="center" valign="top">
 
 **🔒 PRIVACY IS NON-NEGOTIABLE**  
 Local-first.  
-User data never leaves the perimeter.  
-No leaks in the neon dark.
+User data never leaves the perimeter.
 
 </td>
 <td width="33%" align="center" valign="top">
@@ -251,8 +195,7 @@ Code that still runs when the city sleeps.
 
 **🎨 SIGNAL OVER NOISE**  
 Interfaces must feel inevitable.  
-Clarity is the highest aesthetic.  
-Neon only when it matters.
+Clarity is the highest aesthetic.
 
 </td>
 <td width="33%" align="center" valign="top">
@@ -266,23 +209,17 @@ The rain never stops the cycle.
 
 **💡 BUILD BEYOND**  
 The ordinary is already occupied.  
-Explore the ignored vectors.  
-Light the dark streets.
+Explore the ignored vectors.
 
 </td>
 </tr>
 </table>
 
-<br/>
-
 <div align="center">
 
 ```
-▸ PRIMARY DIRECTIVE
-  Build it. Understand it. Make it better.
-
-▸ ATMOSPHERE
-  Neon rain · Midnight signal · Continuous iteration
+▸ PRIMARY DIRECTIVE   Build it. Understand it. Make it better.
+▸ ATMOSPHERE         Neon rain · Midnight signal · Continuous iteration
 ```
 
 </div>
@@ -291,7 +228,7 @@ Light the dark streets.
 
 <div align="center">
 
-## ◈  U P L I N K
+## ◈ UPLINK
 
 <br/>
 
@@ -311,13 +248,6 @@ Light the dark streets.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03040A,25:0A0F2C,55:1A0A2E,100:03040A&height=150&section=footer&text=VENTEDA&fontSize=44&fontAlignY=52&fontColor=00F5D4&animation=fadeIn" width="100%" alt="Footer"/>
 
-```
-════════════════════════════════════════════════════════════════════════
-  ▸ TRANSMISSION TERMINATED
-  ▸ VENTEDA SYSTEMS
-  ▸ 2025 → ∞
-  ▸ NEON STILL BURNING  ·  RAIN STILL FALLING  ·  SIGNAL HOLDS
-════════════════════════════════════════════════════════════════════════
-```
+<sub>▸ TRANSMISSION TERMINATED · VENTEDA SYSTEMS · 2025 → ∞ · SIGNAL HOLDS</sub>
 
 </div>
