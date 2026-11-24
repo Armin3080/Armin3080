@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════
-     VENTEDA • PREMIUM CYBERPUNK PROFILE
-     Dark Glassmorphism × Neon HUD × Minimal Tech
+     VENTEDA  ·  PREMIUM CYBERPUNK PROFILE
+     Dark Glassmorphism × Neon HUD × Minimal Tech Aesthetic
 ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0a0f2c,100:050816&height=220&section=header&text=VENTEDA&fontSize=72&fontAlignY=38&desc=BUILDING%20BEYOND%20THE%20ORDINARY&descAlignY=58&descSize=18&fontColor=00F5D4&animation=fadeIn" width="100%" alt="VENTEDA Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:0A0F2C,100:050816&height=230&section=header&text=VENTEDA&fontSize=74&fontAlignY=36&desc=BUILDING%20BEYOND%20THE%20ORDINARY&descAlignY=58&descSize=17&fontColor=00F5D4&animation=fadeIn" width="100%" alt="VENTEDA Header"/>
 
 <br/>
 
@@ -17,14 +17,14 @@
   <img src="https://img.shields.io/badge/Telegram-Contact-FF3CAC?style=for-the-badge&logo=telegram&logoColor=FF3CAC&labelColor=050816" alt="Telegram"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Online-7B2CFF?style=for-the-badge&logo=statuspage&logoColor=7B2CFF&labelColor=050816" alt="Status"/>
+<img src="https://img.shields.io/badge/Status-Active-7B2CFF?style=for-the-badge&logo=statuspage&logoColor=7B2CFF&labelColor=050816" alt="Status"/>
 
 <br/><br/>
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
+┌──────────────────────────────────────────────────────────────┐
 │  SYSTEM ONLINE  │  NODE: ARMIN3080  │  MODE: CYBERPUNK     │
-└─────────────────────────────────────────────────────────────┘
+└──────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -39,16 +39,18 @@
 
 <table>
 <tr>
-<td width="100%">
+<td>
 
-```diff
-+ Software Engineer focused on high-performance systems,
-+ intelligent networking layers, local AI integration,
-+ automation pipelines and refined user experiences.
+```python
+class Venteda:
+    focus     = ["privacy & networking", "local AI systems", "real-time apps", "desktop tools"]
+    mindset   = "Learn by building. Improve by iterating."
+    principle = "Build beyond the ordinary."
 ```
 
-I design and ship software that prioritizes speed, privacy and clean architecture.  
-My work sits at the intersection of **networking**, **AI tooling**, **desktop applications** and **modern web interfaces**.
+Independent software builder focused on **privacy-first networking**, **local AI tooling**, **real-time communication** and **clean desktop experiences**.
+
+I take ideas from rough prototype to working product — backend logic, integrations, and the interfaces people actually use.
 
 </td>
 </tr>
@@ -58,12 +60,12 @@ My work sits at the intersection of **networking**, **AI tooling**, **desktop ap
 
 <div align="center">
 
-| Domain              | Focus                                      |
-|---------------------|--------------------------------------------|
-| **Networking**      | Custom protocols · Real-time systems       |
-| **AI Systems**      | Local LLMs · Inference pipelines           |
-| **Automation**      | Workflow engines · Tooling                 |
-| **UX / Interface**  | Desktop apps · Glassmorphism · HUD design  |
+| Domain | Focus |
+|:------:|:------|
+| **Networking** | Privacy-oriented connectivity · low-latency channels · secure protocols |
+| **AI Systems** | Local LLMs · offline knowledge layers · inference pipelines |
+| **Automation** | Workflow engines · developer utilities · continuous tooling |
+| **UX / Interface** | Desktop apps · glassmorphism · responsive real-time UI |
 
 </div>
 
@@ -82,8 +84,8 @@ My work sits at the intersection of **networking**, **AI tooling**, **desktop ap
     <td width="50%" valign="top">
       <h3 align="center">⚡ VENTEDA NETWORKING</h3>
       <p align="center">
-        High-performance networking layer and protocol toolkit.<br/>
-        Built for low-latency communication and secure data channels.
+        Privacy-oriented connectivity experiments and networking toolkit.<br/>
+        Exploring the full path from interface to reliable, secure connection.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-00F5D4?style=flat-square&logo=python&logoColor=050816" alt="Python"/>
@@ -94,8 +96,8 @@ My work sits at the intersection of **networking**, **AI tooling**, **desktop ap
     <td width="50%" valign="top">
       <h3 align="center">💬 VENTEDA CHAT</h3>
       <p align="center">
-        Real-time messaging system with local-first architecture.<br/>
-        Emphasis on privacy, speed and clean conversation UI.
+        Real-time messaging experience with local-first architecture.<br/>
+        Designed for privacy, speed, and a consistent multi-platform interface.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-00F5D4?style=flat-square&logo=javascript&logoColor=050816" alt="JS"/>
@@ -108,8 +110,8 @@ My work sits at the intersection of **networking**, **AI tooling**, **desktop ap
     <td width="50%" valign="top">
       <h3 align="center">🛠 VENTEDA CRAFT</h3>
       <p align="center">
-        Creative toolkit for building interfaces and visual systems.<br/>
-        Focused on modern UI components and rapid prototyping.
+        Creative toolkit for modern interfaces and visual systems.<br/>
+        Rapid prototyping of glassmorphic and HUD-style components.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/HTML5-00F5D4?style=flat-square&logo=html5&logoColor=050816" alt="HTML"/>
@@ -120,8 +122,8 @@ My work sits at the intersection of **networking**, **AI tooling**, **desktop ap
     <td width="50%" valign="top">
       <h3 align="center">🧰 DEVELOPER TOOLKIT</h3>
       <p align="center">
-        Collection of utilities, scripts and internal tools.<br/>
-        Built to accelerate development and maintain clean workflows.
+        Practical utilities, scripts and internal tools.<br/>
+        Built to accelerate development and keep workflows clean.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-00F5D4?style=flat-square&logo=python&logoColor=050816" alt="Python"/>
@@ -131,6 +133,8 @@ My work sits at the intersection of **networking**, **AI tooling**, **desktop ap
     </td>
   </tr>
 </table>
+
+<sub align="center">Ongoing concepts and experiments — feature availability depends on each project's current stage.</sub>
 
 ---
 
@@ -193,44 +197,44 @@ My work sits at the intersection of **networking**, **AI tooling**, **desktop ap
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 **⚡ Performance First**  
-Every system is measured.  
+Measure everything.  
 Latency and efficiency are non-negotiable.
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 **🔒 Privacy Matters**  
 Local-first where possible.  
-Data stays under user control.
+User data stays under user control.
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 **🏗 Clean Architecture**  
 Clear boundaries.  
-Maintainable and testable code.
+Maintainable, testable, honest code.
 
 </td>
 </tr>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 **🎨 User Experience**  
 Interfaces should feel inevitable.  
 Clarity over decoration.
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 **🔄 Continuous Improvement**  
-Ship, measure, refine.  
+Ship → measure → refine.  
 Never settle for “good enough”.
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 **💡 Innovation**  
 Build beyond the ordinary.  
@@ -239,6 +243,14 @@ Explore what others ignore.
 </td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+> **Build it. Understand it. Make it better.**
+
+</div>
 
 ---
 
@@ -258,12 +270,12 @@ Explore what others ignore.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0a0f2c,100:050816&height=120&section=footer&text=VENTEDA&fontSize=36&fontAlignY=55&fontColor=00F5D4&animation=fadeIn" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0A0F2C,100:050816&height=120&section=footer&text=VENTEDA&fontSize=34&fontAlignY=55&fontColor=00F5D4&animation=fadeIn" width="100%" alt="Footer"/>
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│  END OF TRANSMISSION  │  VENTEDA SYSTEMS  │  2025–∞        │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│  END OF TRANSMISSION  │  VENTEDA SYSTEMS  │  2025–∞         │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 </div>
