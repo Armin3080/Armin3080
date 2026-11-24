@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03040A,20:0A0F2C,45:1A0A2E,70:0A0F2C,100:03040A&height=240&section=header&text=VENTEDA&fontSize=88&fontAlignY=40&fontColor=00F5D4&animation=fadeIn" width="100%" alt="VENTEDA header"/>
-
-<img src="https://media.giphy.com/media/FK2GGK7CxopG5rirJB/giphy.gif" width="100%" alt="Night City Rain"/>
+<img src="neon_rain_street.gif" width="100%" alt="Neon rain street"/>
 
 <table>
 <tr>
-<td width="50%"><img src="https://media.giphy.com/media/dPWMysx9bD91CGiGaY/giphy.gif" width="100%" alt="Neon rain"/></td>
-<td width="50%"><img src="https://media.giphy.com/media/YTwtRDBqfmsAdWGj6R/giphy.gif" width="100%" alt="Neon city"/></td>
+<td width="50%"><img src="hud_scan.gif" width="100%" alt="HUD scan"/></td>
+<td width="50%"><img src="rain_ring.gif" width="100%" alt="Rain ring"/></td>
 </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03040A,20:0A0F2C,45:1A0A2E,70:0A0F2C,100:03040A&height=220&section=header&text=VENTEDA&fontSize=88&fontAlignY=40&fontColor=00F5D4&animation=fadeIn" width="100%" alt="VENTEDA header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=100&lines=SYSTEMS+ARCHITECT;LOCAL+AI+%C2%B7+PRIVACY+NETS;REALTIME+CHANNELS+%C2%B7+DESKTOP+SURFACES" alt="Typing animation"/>
 
@@ -23,7 +23,7 @@
 
 </div>
 
----
+<img src="neon_divider.gif" width="100%" alt="divider"/>
 
 <div align="center">
 
@@ -52,7 +52,7 @@ class Venteda:
 | **AUTOMATION** | Workflow engines · internal tools · friction deleted at source |
 | **INTERFACE** | Glassmorphic HUD · neon signal design · surfaces that feel inevitable |
 
----
+<img src="neon_divider.gif" width="100%" alt="divider"/>
 
 ## ◈ ACTIVE SYSTEMS
 
@@ -111,6 +111,8 @@ class Venteda:
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css,qt,git,github,linux,windows,cloudflare&theme=dark&perline=10" alt="Tech arsenal icons"/>
 
+<img src="rain_ring.gif" width="40%" alt="rain ring"/>
+
 ## ◈ TELEMETRY
 
 <picture>
@@ -126,7 +128,7 @@ class Venteda:
 
 <img src="https://streak-stats.demolab.com?user=Armin3080&theme=radical&background=03040A&border=03040A&stroke=7B2CFF&ring=00F5D4&fire=FF3CAC&currStreakLabel=00F5D4&sideLabels=E8EAF6&dates=E8EAF6&currStreakNum=FF3CAC&sideNums=7B2CFF" alt="Streak"/>
 
----
+<img src="neon_divider.gif" width="100%" alt="divider"/>
 
 ## ◈ UPLINK
 
@@ -136,7 +138,7 @@ class Venteda:
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/YTwtRDBqfmsAdWGj6R/giphy.gif" width="75%" alt="Neon City"/>
+<img src="hud_scan.gif" width="75%" alt="HUD scan"/>
 
 <br/><br/>
 
