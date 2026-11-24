@@ -1,8 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03040A,20:0A0F2C,45:1A0A2E,70:0A0F2C,100:03040A&height=300&section=header&text=VENTEDA&fontSize=88&fontAlignY=32&desc=BUILDING%20BEYOND%20THE%20ORDINARY&descAlignY=55&descSize=16&fontColor=00F5D4&animation=fadeIn" width="100%" alt="VENTEDA header"/>
+<img src="neon_rain_street.gif" width="100%" alt="Neon rain street"/>
 
-<img src="https://media.giphy.com/media/FK2GGK7CxopG5rirJB/giphy.gif" width="100%" alt="Night City Rain"/>
+<table>
+<tr>
+<td width="50%"><img src="hud_scan.gif" width="100%" alt="HUD scan"/></td>
+<td width="50%"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2prYWdsMTNxMjhuc3VkMmZxOTFwY2MzNHg1Z3ZianpjdjRoZXVobSZlcD12MV92aWRlb3Nfc2VhcmNoJmN0PXY/ccKdPsnzNuFGCPPR0V/giphy.gif" width="100%" alt="Night City"/></td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03040A,20:0A0F2C,45:1A0A2E,70:0A0F2C,100:03040A&height=220&section=header&text=VENTEDA&fontSize=88&fontAlignY=40&fontColor=00F5D4&animation=fadeIn" width="100%" alt="VENTEDA header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=100&lines=SYSTEMS+ARCHITECT;LOCAL+AI+%C2%B7+PRIVACY+NETS;REALTIME+CHANNELS+%C2%B7+DESKTOP+SURFACES" alt="Typing animation"/>
 
@@ -20,14 +27,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03040A,50:1A0A2E,100:03040A&height=80&section=header&text=&animation=fadeIn" width="100%" alt=""/>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/dPWMysx9bD91CGiGaY/giphy.gif" width="70%" alt="Neon Rain"/>
-
-</div>
-
 ---
 
 <div align="center">
@@ -40,7 +39,7 @@
 <tr>
 <td width="45%" valign="middle">
 
-<img src="https://media.giphy.com/media/FK2GGK7CxopG5rirJB/giphy.gif" width="100%" alt="City rain"/>
+<img src="neon_rain_street.gif" width="100%" alt="Neon rain street"/>
 
 </td>
 <td width="55%" valign="top">
@@ -79,7 +78,7 @@ class Venteda:
 
 ## ◈ ACTIVE SYSTEMS
 
-<img src="https://media.giphy.com/media/YTwtRDBqfmsAdWGj6R/giphy.gif" width="60%" alt="Neon City"/>
+<img src="hud_scan.gif" width="60%" alt="HUD scan"/>
 
 </div>
 
@@ -185,8 +184,6 @@ class Venteda:
 
 ## ◈ CORE DIRECTIVES
 
-<img src="https://media.giphy.com/media/dPWMysx9bD91CGiGaY/giphy.gif" width="50%" alt="Neon rain"/>
-
 </div>
 
 <table>
@@ -265,11 +262,7 @@ Explore the ignored vectors.
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/YTwtRDBqfmsAdWGj6R/giphy.gif" width="75%" alt="Neon City"/>
-
-<br/><br/>
-
-<img src="https://media.giphy.com/media/FK2GGK7CxopG5rirJB/giphy.gif" width="75%" alt="Night City Rain"/>
+<img src="hud_scan.gif" width="75%" alt="HUD scan"/>
 
 <br/><br/>
 
